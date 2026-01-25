@@ -7,3 +7,4 @@ what you shold see:
 - green moving wave(the sin)
 
 if some thing is not right, please, report to me. Somehow...
+(Edit: I LIED! I DONT KNOW HOW TO DO FOR WINDOWS!!!)
