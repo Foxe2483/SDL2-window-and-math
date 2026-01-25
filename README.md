@@ -5,4 +5,5 @@ what you shold see:
 - black cross right in the midle
 - red heart(not fill, only border)
 - green moving wave(the sin)
+
 if some thing is not right, please, report to me. Somehow...
