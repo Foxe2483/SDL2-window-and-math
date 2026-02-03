@@ -1,4 +1,4 @@
-Learning SDL2 as a creator of desktop window aplication. At this time 3 variaty: source code, linux and windows versions. 
+Learning SDL2 as a creator of desktop window aplication. At this time 3 variaty: source code, linux and windows versions. (SDL2.dll requared!)
 
 what you shold see:
 - white backgroud
